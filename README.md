@@ -49,25 +49,19 @@ Working on enterprise products and AI-powered solutions across Full Stack Engine
 
 AI-powered decision-support solution for maintenance shutdown management in mining and heavy industries.
 
-`LangChain` `LangGraph` `RAGAS` `Python` `FastAPI` `PostgreSQL`
-
-`OpenAI` `HuggingFace` `Ollama` `Qdrant`
+`LangChain` `LangGraph` `RAGAS` `Python` `FastAPI` `PostgreSQL` `OpenAI` `HuggingFace` `Ollama` `Qdrant`
 
 **ReviewPilot**
 
 Event-driven multi-agent GitHub Pull Request review system that uses independent AI agents for static analysis, security, code quality, testing and code-style review.
 
-`FastAPI` `LangChain` `LangGraph` `LangSmith` `OpenAI` `PostgreSQL` 
-
-`HuggingFace` `Ollama` `MCP`
+`FastAPI` `LangChain` `LangGraph` `LangSmith` `OpenAI` `PostgreSQL` `HuggingFace` `Ollama` `MCP`
 
 **Location Intelligence**
 
 Geospatial analytics platform enabling location-based business decisions through map-based analysis.
 
-`Node.js` `React` `JavaScript` `TypeScript` `PostgreSQL` `Sequelize` 
-
-`BullMQ`, ` REST APIs`
+`Node.js` `React` `JavaScript` `TypeScript` `PostgreSQL` `Sequelize` `BullMQ`, ` REST APIs`
 
 **Alteryx Server**
 
@@ -94,9 +88,7 @@ Worked on logistics and transportation platforms covering:
 
 **Technologies**
 
-`Node.js` `NestJS` `JavaScript` `TypeScript` `React` `Redux` `GraphQL`
-
-`Kafka` `MongoDB` `CosmosDB`
+`Node.js` `NestJS` `JavaScript` `TypeScript` `React` `Redux` `GraphQL` `Kafka` `MongoDB` `CosmosDB`
 
 ---
 
@@ -119,9 +111,7 @@ Areas included:
 
 **Technologies**
 
-`Node.js` `JavaScript` `TypeScript` `Express.js` `MongoDB` `REST APIs` 
-
-`Microservices`
+`Node.js` `JavaScript` `TypeScript` `Express.js` `MongoDB` `REST APIs` `Microservices`
 
 ---
 
@@ -144,9 +134,7 @@ Worked on large-scale travel technology platforms and booking systems.
 
 **Technologies**
 
-`.NET` `C#` `ASP.NET MVC` `.NET Core` `Node.js` `JavaScript` `SQL`
-
-`REST APIs` `WCF`
+`.NET` `C#` `ASP.NET MVC` `.NET Core` `Node.js` `JavaScript` `SQL` `REST APIs` `WCF`
 
 ---
 
@@ -154,9 +142,7 @@ Worked on large-scale travel technology platforms and booking systems.
 
 ### Languages & Backend
 
-`Node.js` `JavaScript` `TypeScript` `Python` `C#` `NestJS` `Express.js` 
-
-`FastAPI` `.NET Core` `ASP.NET` `TypeORM` `Sequelize` `Mongoose`
+`Node.js` `JavaScript` `TypeScript` `Python` `C#` `NestJS` `Express.js` `FastAPI` `.NET Core` `ASP.NET` `TypeORM` `Sequelize` `Mongoose`
 
 ### Frontend & Web Development
 
@@ -164,9 +150,7 @@ Worked on large-scale travel technology platforms and booking systems.
 
 ### Generative AI
 
-`GenAI` `RAG` `AI Agents` `Agentic AI` `LangChain` `LangGraph` `OpenAI` 
-
-`HuggingFace` `Ollama` `LangSmith` `RAGAS` `MCP` `Prompt Engineering`
+`GenAI` `RAG` `AI Agents` `Agentic AI` `LangChain` `LangGraph` `OpenAI` `HuggingFace` `Ollama` `LangSmith` `RAGAS` `MCP` `Prompt Engineering`
 
 ### Databases
 
@@ -174,9 +158,7 @@ Worked on large-scale travel technology platforms and booking systems.
 
 ### Architecture & APIs
 
-`Microservices` `REST APIs` `GraphQL` `Event-Driven Architecture` 
-
-`Distributed Systems`
+`Microservices` `REST APIs` `GraphQL` `Event-Driven Architecture` `Distributed Systems`
 
 ### Messaging
 
